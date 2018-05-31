@@ -1,0 +1,9 @@
+My runner:
+
+USAGE
+	./my_runner map.txt
+OPTIONS
+	-h print the usage and quit.
+	-i launch in infinity mode.
+USER INTERACTIONS
+	SPACE_KEY fly.
